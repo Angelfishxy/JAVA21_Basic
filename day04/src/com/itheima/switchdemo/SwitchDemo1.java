@@ -1,6 +1,6 @@
 package com.itheima.switchdemo;
 
-public class SwwitchDemo1 {
+public class SwitchDemo1 {
     public static void main(String[] args) {
         String noodeles = "兰州拉面";
 
