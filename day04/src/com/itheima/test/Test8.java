@@ -15,7 +15,6 @@ public class Test8 {
         int remainder = 0;
         while(dividend >= divisor){
             dividend -= divisor;
-            quotient++;
         }
         remainder = dividend;
         System.out.println ("商为：" + quotient+'\n' + "余数为：" + remainder);
