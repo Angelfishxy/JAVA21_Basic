@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 public class StringDemo1 {
     public static void main(String[] args) {

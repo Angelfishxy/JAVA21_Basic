@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 import java.util.Scanner;
 

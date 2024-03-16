@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 public class StringDemo11 {
     //身份证信息查看

@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 public class StringDemo12 {
     //敏感词替换

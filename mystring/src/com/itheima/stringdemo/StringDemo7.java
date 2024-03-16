@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 public class StringDemo7 {
     //字符串拼接

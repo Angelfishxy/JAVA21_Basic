@@ -1,4 +1,4 @@
-package stringdemo;
+package com.itheima.stringdemo;
 
 public class StringDemo10 {
     //手机号隐私屏蔽
