@@ -6,10 +6,17 @@
       <module fileurl="file://$PROJECT_DIR$/day03/day03.iml" filepath="$PROJECT_DIR$/day03/day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07/day07.iml" filepath="$PROJECT_DIR$/day07/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapi/myapi.iml" filepath="$PROJECT_DIR$/myapi/myapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydate/mydate.iml" filepath="$PROJECT_DIR$/mydate/mydate.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylist/mylist.iml" filepath="$PROJECT_DIR$/mylist/mylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mymap/mymap.iml" filepath="$PROJECT_DIR$/mymap/mymap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mystatic/mystatic.iml" filepath="$PROJECT_DIR$/mystatic/mystatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/mystring/mystring.iml" filepath="$PROJECT_DIR$/mystring/mystring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvessel/myvessel.iml" filepath="$PROJECT_DIR$/myvessel/myvessel.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-code/oop-code.iml" filepath="$PROJECT_DIR$/oop-code/oop-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-extends/oop-extends.iml" filepath="$PROJECT_DIR$/oop-extends/oop-extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-test/oop-test.iml" filepath="$PROJECT_DIR$/oop-test/oop-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search-code/search-code.iml" filepath="$PROJECT_DIR$/search-code/search-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/study_java21.iml" filepath="$PROJECT_DIR$/study_java21.iml" />
     </modules>
   </component>

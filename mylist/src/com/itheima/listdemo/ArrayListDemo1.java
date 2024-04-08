@@ -9,7 +9,7 @@ public class ArrayListDemo1 {
         //增加
         boolean flag = list.add ("aaa");
         list.add ("bbb");
-        list.add ("ccc");
+        list.add (1,"ccc");
         list.add ("ddd");
         System.out.println (flag);
         System.out.println (list);
